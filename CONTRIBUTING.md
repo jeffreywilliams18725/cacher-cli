@@ -4,3 +4,4 @@ Notes and usage details for cacher-cli.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
